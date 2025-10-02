@@ -20,3 +20,4 @@
 |    **03**    | [JS03 - Ektraksi Fitur](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js03-ektraksi-fitur)                                                 |
 | **04-Quiz1** | JS04 - Quiz                                                                                                                                                               |
 |    **04**    | [JS04 - Klasterisasi](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js04-klasterisasi)                                                     |
+|    **05**    | [JS05 - Klasterisasi Hierarki](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js05-klasterisasi-hierarki)                                   |
