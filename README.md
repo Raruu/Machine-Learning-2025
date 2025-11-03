@@ -22,4 +22,5 @@
 |     **04**     | [JS04 - Klasterisasi](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js04-klasterisasi)                                                     |
 |     **05**     | [JS05 - Klasterisasi Hierarki](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js05-klasterisasi-hierarki)                                   |
 |     **06**     | [ANN (Approximate Nearest Neighbors)](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-ann-approximate-nearest-neighbors)                |
-| **06-Regresi** | [Regresi](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-regresi)                |
+| **06-Regresi** | [Regresi](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js06-regresi)                                                                      |
+|     **09**     | [Regresi](https://polinema.gitbook.io/jti-modul-praktikum-pembelajaran-mesin-2025-2026/js09-klasifikasi)                                                                  |
